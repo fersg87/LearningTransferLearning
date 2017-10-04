@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basketball_images</folder>
+	<filename>basketball_1.jpg</filename>
+	<path>C:\Courses\TensorFlow_ObjectDetection\models\research\object_detection\basketball_images\basketball_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>213</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>121</ymin>
+			<xmax>71</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>
